@@ -65,18 +65,6 @@ Durante o desenvolvimento deste projeto foram praticados conceitos como:
 
 ---
 
-## 📁 Estrutura do Repositório
-
-```text
-📂 postgresql-biblioteca
-│
-├── script.sql
-├── ERD.png
-└── README.md
-```
-
----
-
 ## 📝 Observação
 
 Este projeto foi desenvolvido como atividade prática durante um curso de PostgreSQL, seguindo a proposta apresentada pelo instrutor. O código foi mantido em sua estrutura original para representar fielmente o aprendizado realizado ao longo do curso.
@@ -87,5 +75,5 @@ Este projeto foi desenvolvido como atividade prática durante um curso de Postgr
 
 **Bruna Luiza Ximenes da Silva**
 
-- 💼 LinkedIn: *(adicione seu link)*
+- 💼 LinkedIn: https://www.linkedin.com/in/bruna-silva-310139164/
 - 🐙 GitHub: https://github.com/blximenes
